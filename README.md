@@ -9,6 +9,8 @@
 ![2020/01/02](https://raw.githubusercontent.com/GameDevLog/2020/master/2020/01/2020-01-02.png)
 ![2020/01/03](https://raw.githubusercontent.com/GameDevLog/2020/master/2020/01/2020-01-03.png)
 ![2020/01/04](https://raw.githubusercontent.com/GameDevLog/2020/master/2020/01/2020-01-04.png)
+![2020/01/05](https://raw.githubusercontent.com/GameDevLog/2020/master/2020/01/2020-01-05.png)
+![2020/01/06](https://raw.githubusercontent.com/GameDevLog/2020/master/2020/01/2020-01-06.png)
 
 ## February
 
